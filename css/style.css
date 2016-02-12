@@ -1,0 +1,21 @@
+body {
+    background: url(http://www.kul.pl/files/138/ksiazka.jpg)  no-repeat center center fixed;
+ -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;  
+font-family: 'Special Elite', cursive;
+}
+h1 {
+  padding-bottom: 20px;
+ 
+}
+h2 {
+  color: Black;
+} 
+  h3 {padding-bottom: 30px;
+  } 
+.twitter {
+  padding-top: 20px;
+}
+ 
